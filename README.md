@@ -19,13 +19,12 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div display="flex">
-<img src="https://skillicons.dev/icons?i=git,bootstrap,symfony,css,github,php,html,java,js,linux,mongodb,mysql,nodejs,react,vscode&perline=20" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,php,symfony,java,mysql,linux,vscode,git,github&perline=20" />
 </div>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://es.linkedin.com/in/marcoossmb'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp
-<a href = 'https://github.com/marcoossmb'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="mailto:marcossblazquezz@gmail.com" target="_blank"><br><br>
 <img src="https://img.shields.io/badge/gmail:  marcossblazquezz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" /></a>
   
