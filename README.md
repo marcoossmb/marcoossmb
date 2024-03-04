@@ -38,9 +38,4 @@
 -----
 [Marcos Marcos Blázquez](https://github.com/marcoossmb)
 
-Last Edited on: 09/02/2024
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+Last Edited on: 04/03/2024
